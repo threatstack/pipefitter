@@ -1,7 +1,7 @@
 package main
 
 // awsTargets.go - handle targets
-// Copyright 2020 Threat Stack, Inc.
+// Copyright 2020-2022 F5 Inc.
 // Licensed under the BSD 3-clause license; see LICENSE.md for more information.
 
 import (
